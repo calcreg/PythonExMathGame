@@ -1,13 +1,14 @@
 #
-# -----------------------USAGE LICENSE et AUTEUR ---------------------------------------------#
-# Licence GNU GPL. Auteur: Bussy-Socrate Regan.
+# -----------------------USAGE LICENSE and AUTHOR ---------------------------------------------#
+# Licence GNU GPL. This is a freeware. Forbidden to sell or part of a program to be sold. Auteur: Bussy-Socrate Regan.
 # This program is aimed at math teachers for their students to improve their knowledge through exercising and guidance.
 #It is to be used as a base for building a suite of exercise of gradual difficulties.
 # Subroutine Rprintf is able to display latex (\sqrt{}, \frac{}{} and x^{y}, +, -) without the heavy ans slow latex package under python.
 # It can easily be implemented for one who can program in python.
-# This program is under GNU GPL License. The author permits the use of this program its share but these above comments
-#containing the license and the author should be kept inside the program.
-# Contact the author for significant contributions : cours81[@]gmail.com
+# This program is under GNU GPL License. The author permits the use of this program freely, its sharing, 
+# but this header comments containing the license and the author should be kept inside the program.
+# Developpers: Contact the author for significant contributions through pull requests. Respect the architecture ..._inc.py includes files.
+# Developpers should think in a pedagogical way. Gradual exercises and comments available by click to help kids to fix knowledge.
 # Please read the README.md to launch the program.
 
 import tkinter as tk
