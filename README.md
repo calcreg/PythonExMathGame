@@ -10,7 +10,7 @@ The architecture of the program is a main program ExJeuxMath4_2.py and extra fil
 Therefore the launching of the program is be made using 'readprog.py' to include the '..._inc.py' various exercise files and a pipe to redirect the output in python3.
 Remark: The program can easily run under previous version of python. Use Tkinter instead of tkinter to run below version 3 of python.
 
-Launch can be made using two methods:
+Launch can be done using two methods:
 Using a pipe to redirect in python
 1. open a terminal
 2. python3 readprog.py ExJeuxMath4_2.py | python3
