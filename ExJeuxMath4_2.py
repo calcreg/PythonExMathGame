@@ -1,14 +1,14 @@
 #
-# --------------------------------------------------------------------#
-# Ce programme est une suite d'exercice dédiée à des élèves de collège.
-# Il est destiné à des professeurs de mathématiques pour leur élèves.
-# Il n'est pas totalement utilisable en l'état et nécessite une programmation pour en finir quelques détails
-# C'est pour cela que les professeurs de mathématique y trouveront une formidable base pour produire des exercices
-# interactifs pouvant générer un affichage avec symbolisme mathématique sans utiliser le lourd package de Latex.
-# Ce programme est sous licence GNU GPL. L'auteur BUSSY-SOCRATE Regan autorise son utilisation et sa diffusion
-# dans la mesure où cet entête est conservé en mentionnant la License et son auteur.
-
-# Lire le README.md pour les modalités de lancement.
+# -----------------------USAGE LICENSE et AUTEUR ---------------------------------------------#
+# Licence GNU GPL. Auteur: Bussy-Socrate Regan.
+# This program is aimed at math teachers for their students to improve their knowledge through exercising and guidance.
+#It is to be used as a base for building a suite of exercise of gradual difficulties.
+# Subroutine Rprintf is able to display latex (\sqrt{}, \frac{}{} and x^{y}, +, -) without the heavy ans slow latex package under python.
+# It can easily be implemented for one who can program in python.
+# This program is under GNU GPL License. The author permits the use of this program its share but these above comments
+#containing the license and the author should be kept inside the program.
+# Contact the author for significant contributions : cours81[@]gmail.com
+# Please read the README.md to launch the program.
 
 import tkinter as tk
 from tkinter import font as tkFont
