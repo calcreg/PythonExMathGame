@@ -9,7 +9,7 @@
 # It can easily be implemented for one who can program in python.
 # This program is under GNU GPL License. The author permits the use of this program freely, its sharing, 
 # but this header comments containing the license and the author should be kept inside the program.
-# Developpers: Contact the author for significant contributions through pull requests. Respect the architecture ..._inc.py includes files.
+# Developpers: Contact the author for significant contributions through pull requests. Respect the architecture using ..._inc.py files.
 # Developpers should think in a pedagogical way. Gradual exercises and comments available by click to help kids to fix knowledge.
 # Please read the README.md to launch the program.
 
