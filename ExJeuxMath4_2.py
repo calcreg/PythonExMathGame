@@ -1,10 +1,21 @@
+#
+# --------------------------------------------------------------------#
+# Ce programme est une suite d'exercice dédiée à des élèves de collège.
+# Il est destiné à des professeurs de mathématiques pour leur élèves.
+# Il n'est pas totalement utilisable en l'état et nécessite une programmation pour en finir quelques détails
+# C'est pour cela que les professeurs de mathématique y trouveront une formidable base pour produire des exercices
+# interactifs pouvant générer un affichage avec symbolisme mathématique sans utiliser le lourd package de Latex.
+# Ce programme est sous licence GNU GPL. L'auteur BUSSY-SOCRATE Regan autorise son utilisation et sa diffusion
+# dans la mesure où cet entête est conservé en mentionnant la License et son auteur.
+
+# Lire le README.md pour les modalités de lancement.
+
 import tkinter as tk
 from tkinter import font as tkFont
 import numpy as np
 from random import randrange
 import time
-#time.sleep(0.1) #dort 0.1 seconde
-#import textwrap as wt
+
 
 Score=0;xScore=310;yScore=10;ScoreTxt=0
 Session=0;xSession=10;ySession=10;SessionTxt=0;ChgtSession=0
