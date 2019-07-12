@@ -2,7 +2,7 @@
 # -----------------------USAGE LICENSE and AUTHOR ---------------------------------------------#
 # Licence GNU GPL. This is a freeware. Forbidden to sell or part of a program to be sold. Auteur: Bussy-Socrate Regan.
 # This program is aimed at math teachers for their students to improve their knowledge through exercising and guidance.
-#It is to be used as a base for building a suite of exercise of gradual difficulties.
+# It is to be used as a basis for building a suite of exercise of gradual difficulties.
 # Subroutine Rprintf is able to display latex (\sqrt{}, \frac{}{} and x^{y}, +, -) without the heavy ans slow latex package under python.
 # It can easily be implemented for one who can program in python.
 # This program is under GNU GPL License. The author permits the use of this program freely, its sharing, 
