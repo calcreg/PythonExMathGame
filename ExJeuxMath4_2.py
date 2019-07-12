@@ -1,7 +1,7 @@
 #
 # -----------------------USAGE LICENSE and AUTHOR ---------------------------------------------#
 # Licence GNU GPL. 
-# This is a freeware, forbidden to be sold full or being part of a prgram to be sold.
+# This is a freeware, forbidden to be sold full or being part of a program to be sold.
 # Author: Bussy-Socrate Regan.
 # This program is aimed at math teachers for their students to improve their knowledge through exercising and guidance.
 # It is to be used as a basis for building a suite of exercise of gradual difficulties.
