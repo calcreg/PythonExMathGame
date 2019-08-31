@@ -14,7 +14,7 @@
 # Please read the README.md to launch the program.
 
 # Required file as part of the sofware:
-# readprog.py, Frac_6_inc.py, SubRoutine1.py
+# readprog.py, Frac_6_5_inc.py, SubRoutine1_3.py
 #Launch with:
 #python readprog.py ExJeuxMath6_5.py | python
 
