@@ -1,4 +1,5 @@
 # PythonExMathGame
+![im](https://user-images.githubusercontent.com/42121106/91620527-84c09f00-e990-11ea-8800-be42d905abab.jpg)
 This program on Python is aimed at students in highschool and for teachers to use as a basis for developping quickly a suite of exercises. 
 A minimum level in Python is required.
 A set of routine is built to display math equations without the heavy Latex import. It helps display square root, power and fractions as Latex does.
